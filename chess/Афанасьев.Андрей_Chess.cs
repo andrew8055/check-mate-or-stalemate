@@ -280,66 +280,6 @@ namespace chess
             this.whiteFigures = new List<Figure>();
         }
 
-        public void LoadFromFile(String fileName)
-        {
-            StreamReader reader = new StreamReader(fileName);
-
-            for (int i = 0; i < 8; ++i)
-            {
-                chessBoard[i] = reader.ReadLine();
-                chessBoard[i] = chessBoard[i].Replace(" ", "");
-
-                if (chessBoard[i].Length != 8)
-                {
-                    Console.WriteLine("Доска размера 8*8! Вы ввели больше/меньше чем необходимо значений");
-                    --i;
-                    continue;
-                }
-            }
-
-            for (int i = 0; i < 8; ++i)
-            {
-                for (int j = 0; j < 8; ++j)
-                {
-                    switch (chessBoard[i][j].ToString())
-                    {
-                        case "K":
-                            whiteFigures.Add(new King(j, i));
-                            break;
-                        case "Q":
-                            whiteFigures.Add(new Queen(j, i, chessBoard));
-                            break;
-                        case "B":
-                            whiteFigures.Add(new Bishop(j, i, chessBoard));
-                            break;
-                        case "N":
-                            whiteFigures.Add(new Knight(j, i, chessBoard));
-                            break;
-                        case "R":
-                            whiteFigures.Add(new Rook(j, i, chessBoard));
-                            break;
-                        case "k":
-                            blackFigures.Add(new King(j, i));
-                            break;
-                        case "q":
-                            blackFigures.Add(new Queen(j, i, chessBoard));
-                            break;
-                        case "b":
-                            blackFigures.Add(new Bishop(j, i, chessBoard));
-                            break;
-                        case "n":
-                            blackFigures.Add(new Knight(j, i, chessBoard));
-                            break;
-                        case "r":
-                            blackFigures.Add(new Rook(j, i, chessBoard));
-                            break;
-                        default:
-                            break;
-                    }
-                }
-            }
-        }
-
         public void Load()
         {
             Console.WriteLine("Set the chessboard: ");
