@@ -1,0 +1,10 @@
+D:\andrew\Projects\chess\chess\bin\Release\chess.exe
+D:\andrew\Projects\chess\chess\bin\Release\chess.pdb
+D:\andrew\Projects\chess\chess\obj\x86\Release\ResolveAssemblyReference.cache
+D:\andrew\Projects\chess\chess\obj\x86\Release\chess.exe
+D:\andrew\Projects\chess\chess\obj\x86\Release\chess.pdb
+D:\andrew\Projects\tempChess\chess\obj\x86\Release\chess.exe
+D:\andrew\Projects\tempChess\chess\obj\x86\Release\chess.pdb
+D:\andrew\Projects\tempChess\chess\bin\Release\chess.exe
+D:\andrew\Projects\tempChess\chess\bin\Release\chess.pdb
+D:\andrew\Projects\tempChess\chess\obj\x86\Release\ResolveAssemblyReference.cache

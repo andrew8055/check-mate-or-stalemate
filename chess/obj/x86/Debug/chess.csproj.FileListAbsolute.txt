@@ -1,0 +1,7 @@
+D:\andrew\Projects\chess\chess\bin\Debug\chess.exe
+D:\andrew\Projects\chess\chess\bin\Debug\chess.pdb
+D:\andrew\Projects\chess\chess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\andrew\Projects\chess\chess\obj\x86\Debug\chess.exe
+D:\andrew\Projects\chess\chess\obj\x86\Debug\chess.pdb
+D:\andrew\Projects\tempChess\chess\obj\x86\Debug\chess.exe
+D:\andrew\Projects\tempChess\chess\obj\x86\Debug\chess.pdb
