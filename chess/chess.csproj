@@ -43,7 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Афанасьев.Андрей_Chess.cs" />
+    <Compile Include="Bishop.cs" />
+    <Compile Include="Chess.cs" />
+    <Compile Include="Coord.cs" />
+    <Compile Include="Figure.cs" />
+    <Compile Include="IBishop.cs" />
+    <Compile Include="IRook.cs" />
+    <Compile Include="King.cs" />
+    <Compile Include="Knight.cs" />
+    <Compile Include="Queen.cs" />
+    <Compile Include="Rook.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -8,3 +8,8 @@ D:\andrew\Projects\tempChess\chess\obj\x86\Release\chess.pdb
 D:\andrew\Projects\tempChess\chess\bin\Release\chess.exe
 D:\andrew\Projects\tempChess\chess\bin\Release\chess.pdb
 D:\andrew\Projects\tempChess\chess\obj\x86\Release\ResolveAssemblyReference.cache
+D:\andrew\Projects\chessOnBitbucket\chess\obj\x86\Release\chess.exe
+D:\andrew\Projects\chessOnBitbucket\chess\obj\x86\Release\chess.pdb
+D:\andrew\Projects\chessOnBitbucket\chess\obj\x86\Release\ResolveAssemblyReference.cache
+D:\andrew\Projects\chessOnBitbucket\chess\bin\Release\chess.exe
+D:\andrew\Projects\chessOnBitbucket\chess\bin\Release\chess.pdb

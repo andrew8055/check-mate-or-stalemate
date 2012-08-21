@@ -5,3 +5,8 @@ D:\andrew\Projects\chess\chess\obj\x86\Debug\chess.exe
 D:\andrew\Projects\chess\chess\obj\x86\Debug\chess.pdb
 D:\andrew\Projects\tempChess\chess\obj\x86\Debug\chess.exe
 D:\andrew\Projects\tempChess\chess\obj\x86\Debug\chess.pdb
+D:\andrew\Projects\chessOnBitbucket\chess\obj\x86\Debug\chess.exe
+D:\andrew\Projects\chessOnBitbucket\chess\obj\x86\Debug\chess.pdb
+D:\andrew\Projects\chessOnBitbucket\chess\bin\Debug\chess.exe
+D:\andrew\Projects\chessOnBitbucket\chess\bin\Debug\chess.pdb
+D:\andrew\Projects\chessOnBitbucket\chess\obj\x86\Debug\ResolveAssemblyReference.cache
