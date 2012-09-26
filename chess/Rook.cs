@@ -42,43 +42,6 @@ namespace chess
             }
 
             return possibleMoves;
-
-            //bool[] isBusy = { false, false, false, false };
-            //List<Coord> possibleMoves = new List<Coord>();
-
-            //for (int i = 1; i < chessBoard.Length; ++i)
-            //{
-            //    if (this.ver + i <= 7 && isBusy[0] == false)
-            //    {
-            //        if (!chessBoard[this.ver + i][this.hor].Equals('.'))
-            //            isBusy[0] = true;
-
-            //        possibleMoves.Add(new Coord(this.hor, this.ver + i, 7));
-            //    }
-            //    if (this.ver - i >= 0 && isBusy[1] == false)
-            //    {
-            //        if (!chessBoard[this.ver - i][this.hor].Equals('.'))
-            //            isBusy[1] = true;
-
-            //        possibleMoves.Add(new Coord(this.hor, this.ver - i, 3));
-            //    }
-            //    if (this.hor + i <= 7 && isBusy[2] == false)
-            //    {
-            //        if (!chessBoard[this.ver][this.hor + i].Equals('.'))
-            //            isBusy[2] = true;
-
-            //        possibleMoves.Add(new Coord(this.hor + i, this.ver, 5));
-            //    }
-            //    if (this.hor - i >= 0 && isBusy[3] == false)
-            //    {
-            //        if (!chessBoard[this.ver][this.hor - i].Equals('.'))
-            //            isBusy[3] = true;
-
-            //        possibleMoves.Add(new Coord(this.hor - i, this.ver, 1));
-            //    }
-            //}
-
-            //return possibleMoves;
         }
     }
 }
